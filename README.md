@@ -1,10 +1,8 @@
 # gradio-image-demo
-Dog vs Cat Classifier by EdwarJRoss
+Dog vs Cat Classifier by EdwarJRoss to distiguish cats from dogs in images
 
-
-[Original Cat vs Dog by EdwarJRoss](https://edwardjross.github.io/gradio-image-demo/)
-
-[Forked Cat vs Dog by reschreiter](https://reschreiter.github.io/gradio-image-demo/) 
+- [Original Cat vs Dog by EdwarJRoss](https://edwardjross.github.io/gradio-image-demo/)
+- [Forked Cat vs Dog by reschreiter](https://reschreiter.github.io/gradio-image-demo/) 
 
 See FreeCodeCamp on static [Github Pages Deployment](https://www.freecodecamp.org/news/publish-your-website-netlify-github/)
 
