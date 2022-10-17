@@ -1,4 +1,6 @@
-# gradio-image-demo: Dog vs Cat Classifier by EdwarJRoss to distiguish cats from dogs in images
+# gradio-image-demo 
+
+## Dog vs Cat Classifier by EdwarJRoss to distiguish cats from dogs in images
 
 - [Original Cat vs Dog by EdwarJRoss](https://edwardjross.github.io/gradio-image-demo/)
 - [Forked Cat vs Dog by reschreiter](https://reschreiter.github.io/gradio-image-demo/) 
